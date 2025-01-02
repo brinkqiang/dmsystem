@@ -24,6 +24,26 @@
 | **riscv64**  | 64-bit RISC-V 架构                                         | 开放源代码的 RISC 架构，逐步在研究和工业界获得关注。                 | 嵌入式系统、研究和教育、未来的高效能计算。                             | 开源生态系统支持，Linux 和 FreeBSD 已经支持，逐渐获得越来越多的开发工具和库。             | 在学术界和开源硬件领域逐渐崭露头角，嵌入式设备和新兴应用中逐渐增长。市场占有率较低。         |
 | **i386**     | 32-bit x86 架构                                           | 传统的 32 位 x86 架构，向后兼容 16 位指令集。                        | 旧式桌面电脑，嵌入式系统，早期的操作系统支持。                             | 广泛支持的软件生态，特别是 Linux、Windows 等。                                        | 现在几乎完全被 x86_64 替代，市场份额极小。                                       |
 
+### **大学开源镜像站**
+
+| **镜像站**                                   | **镜像地址**                                                | **支持的操作系统/软件**                                    | **说明**                                                   |
+|---------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|
+| **清华大学开源镜像站**                        | [https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/) | Ubuntu, Debian, Fedora, CentOS, Arch Linux, Kali Linux 等 | 提供多种 Linux 发行版和开源软件的镜像，国内访问速度较快。 |
+| **北京大学开源镜像站**                        | [https://mirrors.pku.edu.cn/](https://mirrors.pku.edu.cn/)   | Ubuntu, Debian, Fedora, CentOS, Arch Linux 等             | 提供稳定的开源软件镜像，支持多个常见的 Linux 发行版。       |
+| **浙江大学开源镜像站**                        | [https://mirror.zju.edu.cn/](https://mirror.zju.edu.cn/)     | Ubuntu, Debian, CentOS, Fedora, Arch Linux 等             | 浙大的镜像站提供的 Linux 发行版镜像在国内非常稳定。         |
+| **中科大开源镜像站**                          | [https://mirrors.ustc.edu.cn/](https://mirrors.ustc.edu.cn/)   | Ubuntu, Debian, Fedora, CentOS, Arch Linux, Kali Linux 等 | 提供国内较为稳定的开源软件镜像，速度较快。                   |
+| **华中科技大学开源镜像站**                    | [https://mirrors.hust.edu.cn/](https://mirrors.hust.edu.cn/)   | Ubuntu, Debian, CentOS, Fedora, Arch Linux 等             | 华中科技大学的镜像站非常稳定，适合国内用户下载。             |
+| **苏州大学开源镜像站**                        | [https://mirrors.sustech.edu.cn/](https://mirrors.sustech.edu.cn/) | Ubuntu, Debian, Arch Linux, Fedora 等                    | 苏州大学提供的开源镜像服务，支持多个发行版。               |
+| **中国科学院软件研究所镜像站**                | [https://mirror.iscas.ac.cn/](https://mirror.iscas.ac.cn/)     | Ubuntu, Debian, CentOS, Fedora, Arch Linux, Kali Linux 等 | 中国科学院提供的镜像站，稳定可靠。                       |
+
+### **互联网企业开源镜像站**
+
+| **镜像站**                                   | **镜像地址**                                                | **支持的操作系统/软件**                                    | **说明**                                                   |
+|---------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|
+| **阿里云开源镜像站**                          | [https://mirrors.aliyun.com/](https://mirrors.aliyun.com/)     | Ubuntu, Debian, CentOS, Fedora, Arch Linux, Kali Linux 等 | 阿里云提供的高效能镜像，适合国内用户。                    |
+| **腾讯云开源镜像站**                         | [https://mirrors.cloud.tencent.com/](https://mirrors.cloud.tencent.com/) | Ubuntu, Debian, CentOS, Fedora, Arch Linux 等            | 腾讯云提供的镜像站，适合国内用户，更新速度较快。           |
+| **华为云开源镜像站**                          | [https://mirrors.huaweicloud.com/](https://mirrors.huaweicloud.com/) | Ubuntu, Debian, CentOS, Fedora, Arch Linux 等            | 华为云提供的镜像站，适合国内访问。                        |
+| **网易开源镜像站**                           | [https://mirrors.163.com/](https://mirrors.163.com/)           | Ubuntu, Debian, CentOS, Fedora, Arch Linux, Kali Linux 等 | 网易提供的开源镜像站，访问速度较快。                       |
 
 # 常见操作系统 ISO 文件下载说明
 
