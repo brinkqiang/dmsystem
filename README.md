@@ -110,7 +110,7 @@
   - 提供 Cinnamon、MATE 和 XFCE 三个桌面环境的 ISO 文件。
 
 ## 6. 虚拟机专用操作系统
-- **VMware ESXi**
+- **VMware**
   - [VMware 下载](https://www.vmware.com)
   - VMware 提供虚拟化平台的 ISO 文件。
 
