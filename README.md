@@ -24,6 +24,15 @@
 | **riscv64**  | 64-bit RISC-V 架构                                         | 开放源代码的 RISC 架构，逐步在研究和工业界获得关注。                 | 嵌入式系统、研究和教育、未来的高效能计算。                             | 开源生态系统支持，Linux 和 FreeBSD 已经支持，逐渐获得越来越多的开发工具和库。             | 在学术界和开源硬件领域逐渐崭露头角，嵌入式设备和新兴应用中逐渐增长。市场占有率较低。         |
 | **i386**     | 32-bit x86 架构                                           | 传统的 32 位 x86 架构，向后兼容 16 位指令集。                        | 旧式桌面电脑，嵌入式系统，早期的操作系统支持。                             | 广泛支持的软件生态，特别是 Linux、Windows 等。                                        | 现在几乎完全被 x86_64 替代，市场份额极小。                                       |
 
+
+### 自动换源命令(linux)
+
+curl -L https://gitee.com/RubyMetric/chsrc/releases/download/pre/chsrc-x64-linux -o chsrc && chmod +x ./chsrc
+
+### 自动换源命令(win)
+
+curl -L https://gitee.com/RubyMetric/chsrc/releases/download/pre/chsrc-x64-windows.exe -o chsrc.exe
+
 ### **大学开源镜像站**
 
 | **镜像站**               | **镜像地址**                                                | **支持的操作系统/软件**                                    | **说明**                                                   |
