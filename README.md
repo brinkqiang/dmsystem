@@ -48,7 +48,11 @@
 - **CentOS**
   - [CentOS 下载](https://www.centos.org/download/)
   - 支持各种版本的 CentOS，提供 ISO 文件下载链接。
-
+    
+- **openSUSE**
+  - [openSUSE 下载](https://www.opensuse.org/)
+  - 提供 openSUSE Leap 和 openSUSE Tumbleweed 的 ISO 文件下载链接。可选择适合的版本（稳定版或滚动更新版）。
+    
 - **Fedora**
   - [Fedora 下载](https://getfedora.org/)
   - 提供 Fedora 工作站、服务器和 IoT 的 ISO 文件。
