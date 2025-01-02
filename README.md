@@ -111,7 +111,7 @@
 
 ## 6. 虚拟机专用操作系统
 - **VMware ESXi**
-  - [VMware ESXi 下载](https://www.vmware.com/go/download-esxi)
+  - [VMware 下载](https://www.vmware.com)
   - VMware 提供虚拟化平台的 ISO 文件。
 
 - **VirtualBox**
