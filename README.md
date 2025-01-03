@@ -20,5 +20,10 @@ DMSystem 是一个技术文档管理系统，收集整理了各类技术参考�
 ### 5. 硬件架构
 - [Processor.md](Processor.md) - 处理器架构比较，详细说明不同架构的特点和应用场景
 
-### 6. 其他文档
+### 6. 深度学习
+- [DeepLearning.md](DeepLearning.md) - 深度学习框架与算法汇总
+- [DeepLearning-Concepts.md](DeepLearning-Concepts.md) - 深度学习基础概念与算法关系
+- [DeepLearning-Analogy.md](DeepLearning-Analogy.md) - 深度学习概念类比与形象化解释
+
+### 7. 其他文档
 - [New.md](New.md) - 新增文档模板
