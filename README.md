@@ -25,5 +25,8 @@ DMSystem 是一个技术文档管理系统，收集整理了各类技术参考�
 - [DeepLearning-Concepts.md](DeepLearning-Concepts.md) - 深度学习基础概念与算法关系
 - [DeepLearning-Analogy.md](DeepLearning-Analogy.md) - 深度学习概念类比与形象化解释
 
-### 7. 其他文档
+### 7. 心法要诀
+- [Philosophy.md](Philosophy.md) - 程序员修炼心法，包含内功篇、外功篇和心境篇
+
+### 8. 其他文档
 - [New.md](New.md) - 新增文档模板
