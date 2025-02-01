@@ -16,6 +16,11 @@
 ---
 
 ### **领域细分平台**：  
-   - **AI绘画**：Civitai（Stable Diffusion模型社区）、Stability AI官方库。  
-   - **语音合成**：Coqui TTS、Microsoft Speech T5。  
-   - **多模态**：OpenAI CLIP、Salesforce BLIP。  
+| 领域         | 平台名称               | 网址                                                               | 描述                                                                                     |
+|--------------|------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| **AI绘画**   | **Civitai**             | [https://civitai.com](https://civitai.com)                         | Stable Diffusion 模型社区，用户可分享和下载 AI 生成艺术模型。                            |
+| **AI绘画**   | **Stability AI 官方库** | [https://platform.stability.ai](https://platform.stability.ai)     | Stability AI 提供的官方模型库，包括 Stable Diffusion、Stable Video Diffusion 等。       |
+| **语音合成** | **Coqui TTS**           | [https://coqui.ai](https://coqui.ai)                               | 开源语音合成（TTS）工具，支持多种语言的高质量语音生成和训练。                            |
+| **语音合成** | **Microsoft Speech T5** | [https://huggingface.co/microsoft/speecht5](https://huggingface.co/microsoft/speecht5) | 微软推出的语音合成和转换模型，可用于文本转语音、语音克隆等任务。                        |
+| **多模态**   | **OpenAI CLIP**         | [https://openai.com/research/clip](https://openai.com/research/clip) | OpenAI 开发的多模态 AI 模型，可用于图文匹配、分类和搜索任务。                            |
+| **多模态**   | **Salesforce BLIP**     | [https://github.com/salesforce/BLIP](https://github.com/salesforce/BLIP) | 由 Salesforce 开发的多模态 AI 模型，支持图像理解、文本生成和视觉问答任务。               |
