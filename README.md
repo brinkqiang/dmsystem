@@ -31,11 +31,13 @@ DMSystem 是一个技术文档管理系统，收集整理了各类技术参考�
 ### 8. 心法要诀
 - [Philosophy.md](Philosophy.md) - 程序员修炼心法，包含内功篇、外功篇和心境篇
 
-### 9. C++学习视频
+### 9. C++学习资料
 - [Cpp-Vedio.md](Cpp-Vedio.md) - 刚开始各个教程 都可以随便翻一遍 找到自己喜欢的教学风格的视频
-
-### 10. C++学习路径
 - [Cpp-Learning-Path.md](Cpp-Learning-Path.md) - C++学习最佳路径，包含从基础语法到高级应用的完整学习路线
+- [Cpp-Coding-Style.md](Cpp-Coding-Style.md) - C++代码风格指南，包含命名规范、格式要求等
+- [Cpp-Online-Compiler.md](Cpp-Online-Compiler.md) - 在线C++编译器汇总，支持代码编辑、编译和运行
+- [Cpp-Websites.md](Cpp-Websites.md) - C++学习资源网站推荐，包含教程、博客和论坛
 
 ### 11. 其他文档
 - [New.md](New.md) - 新增文档模板
+- [Api.md](Api.md) - API接口文档规范与最佳实践
