@@ -1,4 +1,22 @@
 ### **API**
 
-
-https://serpapi.com/dashboard
+* [SerpApi](https://serpapi.com/dashboard) - A powerful search API service that provides search results from Google, Bing, and other search engines. [MIT]
+* [Twilio](https://www.twilio.com/) - Cloud communications platform for building SMS, Voice, and Messaging applications. [MIT]
+* [SendGrid](https://sendgrid.com/) - A cloud-based email delivery platform, supporting email marketing and transactional email services. [MIT]
+* [Stripe](https://stripe.com/docs/api) - A set of APIs for managing online payments, handling subscriptions, and processing payments. [MIT]
+* [Plaid](https://plaid.com/docs/) - A financial services API for connecting apps to user bank accounts for transactions, payments, and more. [MIT]
+* [OpenAI](https://platform.openai.com/docs) - API for interacting with AI models such as GPT-4 for generating human-like text. [MIT]
+* [Firebase](https://firebase.google.com/docs/reference/rest/) - Google’s mobile and web application development platform providing backend services like real-time databases and authentication. [Apache]
+* [Mailgun](https://www.mailgun.com/) - A powerful API for sending, receiving, and tracking emails. [MIT]
+* [Mapbox](https://www.mapbox.com/) - API providing maps and location data for mobile and web applications. [MIT]
+* [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html) - A serverless compute service that runs your code in response to events, without provisioning or managing servers. [Apache-2.0]
+* [Google Cloud Storage](https://cloud.google.com/storage/docs/json_api) - Google Cloud’s scalable, secure object storage API for large-scale applications. [Apache-2.0]
+* [Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview) - Unified API endpoint for accessing Microsoft cloud service resources, including Azure AD, SharePoint, and OneDrive. [MIT]
+* [Trello](https://developer.atlassian.com/cloud/trello/rest/) - REST API for interacting with boards, lists, cards, and more on Trello. [Apache-2.0]
+* [Slack](https://api.slack.com/) - API for integrating and automating Slack apps, messages, and workflows. [Apache-2.0]
+* [GitHub](https://docs.github.com/en/rest) - API for interacting with GitHub repositories, pull requests, issues, and actions. [MIT]
+* [Zoom](https://marketplace.zoom.us/docs/api-reference/introduction) - Zoom’s API for integrating video conferencing into applications. [MIT]
+* [JokeAPI](https://v2.jokeapi.dev/) - A free API for delivering programming and general jokes in multiple categories. [MIT]
+* [RapidAPI](https://rapidapi.com/) - A marketplace for connecting APIs from various providers across multiple categories. [MIT]
+* [Airtable](https://airtable.com/api) - API for interacting with Airtable databases, automating workflows, and data manipulation. [MIT]
+* [GitLab](https://docs.gitlab.com/ee/api/) - GitLab’s REST API to interact with repositories, CI/CD pipelines, and more. [MIT]
