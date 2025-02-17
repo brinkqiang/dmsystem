@@ -31,6 +31,9 @@ DMSystem 是一个技术文档管理系统，收集整理了各类技术参考�
 ### 8. 心法要诀
 - [Philosophy.md](Philosophy.md) - 程序员修炼心法，包含内功篇、外功篇和心境篇
 
+### 9. awesome系列
+- [awesome-all.md](awesome-all.md) - 汇总了多个 Awesome 相关的资源文件，方便查阅
+
 ### 9. 构建系统
 - [Build-Systems.md](Build-Systems.md) - 常用构建系统汇总，包含Make、CMake、Ninja、Bazel等
 
