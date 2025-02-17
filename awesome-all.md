@@ -13,8 +13,8 @@
 | [awesome-awesome-go-cn.md](awesome-awesome-go-cn.md) | Go 语言相关资源（中文版） |
 | [awesome-awesome-selfhosted-cn.md](awesome-awesome-selfhosted-cn.md) | 可自托管的服务和应用（中文版） |
 | [awesome-c-cn.md](awesome-c-cn.md) | C 语言相关资源（中文版） |
-| [awesome-cmake-cn.md](awesome-cmake-cn.md) | CMake 构建系统相关资源 |
-| [awesome-cpp-cn.md](awesome-cpp-cn.md) | C++ 语言开发相关资源 |
+| [awesome-cmake-cn.md](awesome-cmake-cn.md) | CMake 构建系统相关资源（中文版） |
+| [awesome-cpp-cn.md](awesome-cpp-cn.md) | C++ 语言开发相关资源（中文版） |
 | [awesome-design-cn.md](awesome-design-cn.md) | 设计相关资源（中文版） |
 | [awesome-gameserver-cn.md](awesome-gameserver-cn.md) | 游戏服务器开发相关资源（中文版） |
 | [awesome-javascript-cn.md](awesome-javascript-cn.md) | JavaScript 相关资源（中文版） |
