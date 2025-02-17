@@ -7,6 +7,7 @@
 
 | 文件名 | 说明 |
 |--------|------|
+| [awesome-deepseek-integration-cn.md](awesome-deepseek-integration-cn.md) | DeepSeek 实用集成 |
 | [awesome-cto.md](awesome-cto.md) | CTO 相关的资源和指南 |
 | [awesome-android-cn.md](awesome-android-cn.md) | Android 开发相关资源（中文版） |
 | [awesome-awesome-crawler-cn.md](awesome-awesome-crawler-cn.md) | 爬虫技术相关资源（中文版） |
