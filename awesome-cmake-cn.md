@@ -19,7 +19,6 @@
 
 ## 社区
 
-* [Freenode 上的 cmake](http://webchat.freenode.net/?channels=cmake)
 * [Reddit 上的 cmake](https://www.reddit.com/r/cmake/)
 * [Reddit 上的 cpp](https://www.reddit.com/r/cpp/)
 * [cmake官方社区](https://discourse.cmake.org//)
