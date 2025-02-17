@@ -22,7 +22,7 @@
 * [Freenode 上的 cmake](http://webchat.freenode.net/?channels=cmake)
 * [Reddit 上的 cmake](https://www.reddit.com/r/cmake/)
 * [Reddit 上的 cpp](https://www.reddit.com/r/cpp/)
-* [邮件列表](https://cmake.org/mailing-lists/)
+* [cmake官方邮件列表](https://cmake.org/mailing-lists/)
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/cmake)
 
 ## 资源
