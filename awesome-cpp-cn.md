@@ -544,7 +544,7 @@ C++通用框架和库
 *   [utf8.h](https://github.com/sheredom/utf8.h): C和C++的单个头文件的utf8字符串函数。
 *   [utf8proc](https://github.com/JuliaStrings/utf8proc): 干净的C库，用于处理UTF-8 Unicode数据。
 
-## 进程间通信
+### 进程间通信
 
 - [Apache Thrift](https://thrift.apache.org/): 高效的跨语言IPC/RPC，可在C++、Java、Python、PHP、C#和许多其它语言之间运行。最初是由Facebook开发。
 - [Cap'n Proto](https://github.com/capnproto/capnproto): 快速的数据交换格式和基于功能的RPC系统。
@@ -664,7 +664,7 @@ C++通用框架和库
 *   [xtensor](https://github.com/QuantStack/xtensor): 受NumPy语法启发的C++ 14库，用于使用多维数组表达式进行数值分析。
 *   [universal](https://github.com/stillwater-sc/universal): 只包含头文件的C++ 14库，实现任意假定算数。假定数值系统是一个锥形浮点，比IEEE浮点更有效。假定数使可复现的计算科学成为可能。
 
-## 内存分配
+### 内存分配
 
 - [Boehm GC](https://github.com/ivmai/bdwgc): C和C++的保守的垃圾回收器。
 - [C Smart Pointers](https://github.com/Snaipe/libcsptr): （GNU）C编程语言的智能指针。
@@ -743,7 +743,7 @@ C++通用框架和库
 *   [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus): 跨平台的C++网络嗅探以及数据包解析和构建的框架。
 *   [ZeroMQ](http://zeromq.org/): 高速，模块化的异步通信库。
 
-## PDF
+### PDF
 
 解析和处理PDF文档的库。
 
@@ -772,7 +772,7 @@ C++通用框架和库
 *   [Simbody](https://github.com/simbody/simbody): 高性能C++多体动力学/物理库，模拟关节生物力学和机械系统，像车辆，机器人和人体骨骼。
 *   [SOFA](https://github.com/sofa-framework/sofa): SOFA是一个针对实时仿真的开源框架，其着重于医学仿真。
 
-## 映射
+### 映射
 
 - [Better Enums](https://github.com/aantron/better-enums): 映射的枚举类型（字符串、迭代）。单个头文件。
 - [clReflect](https://bitbucket.org/dwilliamson/clreflect): 使用clang的C++映射。
@@ -786,7 +786,7 @@ C++通用框架和库
 - [RTTR](https://github.com/rttrorg/rttr): C++11的映射库。
 - [visit_struct](https://github.com/cbeck88/visit_struct): C++中用于结构域映射的微型库。
 
-## 正则表达式
+### 正则表达式
 
 - [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions): C++正则表达式专家。
 - [CTRE](https://github.com/hanickadot/compile-time-regular-expressions): 编译时PCRE（几乎）兼容的正则表达式匹配器。
@@ -860,7 +860,7 @@ C++通用框架和库
 *   [upb](https://github.com/protocolbuffers/upb): C中的小型静态库实现。
 *   [YAS](https://github.com/niXman/yas): 非常快的序列化库，支持二进制/文本/ JSON格式。
 
-## 排序
+### 排序
 
 - [pdqsort](https://github.com/orlp/pdqsort): 破坏模式的快速排序。
 - [Timsort](https://github.com/gfx/cpp-TimSort): 模板化的稳定排序功能，其性能优于基于快速排序的算法（包括std: : sort），用于反向或半排序数据。
@@ -1081,7 +1081,7 @@ C/C++集成开发环境列表
 *   [IKOS](https://github.com/NASA-SW-VnV/ikos): 基于抽象解释理论的C / C++静态分析器。
 *   [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B): 来自维基百科的静态代码分析工具列表。
 
-## 编码样式工具
+### 编码样式工具
 
 - [Artistic Style](http://astyle.sourceforge.net/): 格式化C / C++ / C＃/ Obj-C / Java代码的工具。也称为astyle。
 - [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html): 格式化C / C++ / Obj-C代码的工具。
