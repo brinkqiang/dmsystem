@@ -38,7 +38,7 @@ DMSystem 是一个技术文档管理系统，收集整理了各类技术参考�
 - [Build-Systems.md](Build-Systems.md) - 常用构建系统汇总，包含Make、CMake、Ninja、Bazel等
 
 ### 11. C++学习资料
-- [Cpp-Vedio.md](Cpp-Vedio.md) - 刚开始各个教程 都可以随便翻一遍 找到自己喜欢的教学风格的视频
+- [Cpp-Video.md](Cpp-Video.md) - 刚开始各个教程 都可以随便翻一遍 找到自己喜欢的教学风格的视频
 - [Cpp-Learning-Path.md](Cpp-Learning-Path.md) - C++学习最佳路径，包含从基础语法到高级应用的完整学习路线
 - [Cpp-Coding-Style.md](Cpp-Coding-Style.md) - C++代码风格指南，包含命名规范、格式要求等
 - [Cpp-Online-Compiler.md](Cpp-Online-Compiler.md) - 在线C++编译器汇总，支持代码编辑、编译和运行
