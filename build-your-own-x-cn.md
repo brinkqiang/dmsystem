@@ -40,7 +40,7 @@
 
 #### 构建你自己的 `3D 渲染器`
 
-*   [**C++**: _光线追踪入门：创建 3D 图像的简单方法_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
+*   [**C++**: _光线追踪入门：创建 3D 图像的简单方法_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)  
 *   [**C++**: _OpenGL 如何工作：500 行代码实现软件渲染_](https://github.com/ssloy/tinyrenderer/wiki)
 *   [**C++**: _德军总部 3D 的光线投射引擎_](http://lodev.org/cgtutor/raycasting.html)
 *   [**C++**: _基于物理的渲染：从理论到实践_](http://www.pbr-book.org/)
