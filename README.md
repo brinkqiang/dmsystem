@@ -43,6 +43,7 @@ DMSystem 是一个技术文档管理系统，收集整理了各类技术参考�
 - [Cpp-Coding-Style.md](Cpp-Coding-Style.md) - C++代码风格指南，包含命名规范、格式要求等
 - [Cpp-Online-Compiler.md](Cpp-Online-Compiler.md) - 在线C++编译器汇总，支持代码编辑、编译和运行
 - [Cpp-Websites.md](Cpp-Websites.md) - C++学习资源网站推荐，包含教程、博客和论坛
+- [build-your-own-x.md](build-your-own-x.md) - 一个从零开始手把手编程教学指南
 
 ### 12. 其他文档
 - [New.md](New.md) - 新增文档模板
