@@ -48,3 +48,4 @@ DMSystem 是一个技术文档管理系统，收集整理了各类技术参考�
 ### 12. 其他文档
 - [New.md](New.md) - 新增文档模板
 - [Api.md](Api.md) - API接口文档规范与最佳实践
+- [safe.md](safe.md) - 安全相关工具集
