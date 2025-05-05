@@ -9,3 +9,4 @@
 | CanvasJS         | [CanvasJS](https://www.canvasjs.com/)         | 提供基于 JavaScript 的图表生成工具，常用于市场分析展示 | 可用   |
 | tiobe | [tiobe](https://www.tiobe.com/tiobe-index) | 提供编程语言流行度统计 | 可用 |
 | FrameworkBenchmarks | [FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) | C++ web框架 性能测试 | 可用 |
+| tiobe | [tiobe](https://www.tiobe.com/tiobe-index/) | 编程语言排行 | 可用 |
