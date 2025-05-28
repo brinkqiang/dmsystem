@@ -10,3 +10,4 @@
 | tiobe | [tiobe](https://www.tiobe.com/tiobe-index) | 提供编程语言流行度统计 | 可用 |
 | FrameworkBenchmarks | [FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) | C++ web框架 性能测试 | 可用 |
 | tiobe | [tiobe](https://www.tiobe.com/tiobe-index/) | 编程语言排行 | 可用 |
+| SuperCLUE | [SuperCLUE](https://www.superclueai.com/) | SuperCLUE：中文大模型综合性测评基准 | 可用 |
