@@ -12,3 +12,4 @@
 | tiobe | [tiobe](https://www.tiobe.com/tiobe-index/) | 编程语言排行 | 可用 |
 | SuperCLUE | [SuperCLUE](https://www.superclueai.com/) | SuperCLUE：中文大模型综合性测评基准 | 可用 |
 | livebench | [livebench](https://livebench.ai) | 权威大模型测评榜 | 可用 |
+| huggingface-ArtificialAnalysis | [huggingface-ArtificialAnalysis](https://huggingface.co/spaces/ArtificialAnalysis/Text-to-Image-Leaderboard) | 文生图模型排行榜 | 可用 |
