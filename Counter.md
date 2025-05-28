@@ -11,3 +11,4 @@
 | FrameworkBenchmarks | [FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) | C++ web框架 性能测试 | 可用 |
 | tiobe | [tiobe](https://www.tiobe.com/tiobe-index/) | 编程语言排行 | 可用 |
 | SuperCLUE | [SuperCLUE](https://www.superclueai.com/) | SuperCLUE：中文大模型综合性测评基准 | 可用 |
+| livebench | [livebench](https://livebench.ai) | 权威大模型测评榜 | 可用 |
