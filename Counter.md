@@ -14,3 +14,4 @@
 | huggingface-ArtificialAnalysis | [huggingface-ArtificialAnalysis](https://huggingface.co/spaces/ArtificialAnalysis/Text-to-Image-Leaderboard) | 文生图模型排行榜 | 可用 |
 | pypl | [pypl](https://pypl.github.io/PYPL.html) | 编程语言搜索排行 | 可用 |
 | openrouter | [openrouter](https://openrouter.ai/rankings) | openrouter 模式使用情况排行榜 | 可用 |
+| faxianai | [faxianai](https://www.faxianai.com/top) | 发现AI导航站 | 可用 |
