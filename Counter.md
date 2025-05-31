@@ -15,3 +15,5 @@
 | pypl | [pypl](https://pypl.github.io/PYPL.html) | 编程语言搜索排行 | 可用 |
 | openrouter | [openrouter](https://openrouter.ai/rankings) | openrouter 模式使用情况排行榜 | 可用 |
 | faxianai | [faxianai](https://www.faxianai.com/top) | 发现AI导航站 | 可用 |
+| steampowered | [steampowered](https://store.steampowered.com/hwsurvey/) | Steam 硬件和软件调查 | 可用 |
+
